@@ -1,2 +1,2 @@
 # WebDevelopmentDesignExamples
-Interesantes miniproyectos de desarrollo web que me han gustado
+Interesting mini web development projects that I liked
